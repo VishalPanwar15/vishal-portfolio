@@ -1,13 +1,13 @@
 1:"$Sreact.fragment"
-2:I[56511,["/vishal-portfolio/_next/static/chunks/0.uahq16d~ko8.js","/vishal-portfolio/_next/static/chunks/164co5hr7u.vd.js","/vishal-portfolio/_next/static/chunks/09._g2p7w5eby.js"],"Navbar"]
-3:I[89193,["/vishal-portfolio/_next/static/chunks/0.uahq16d~ko8.js","/vishal-portfolio/_next/static/chunks/164co5hr7u.vd.js","/vishal-portfolio/_next/static/chunks/09._g2p7w5eby.js"],"HeroSection"]
-4:I[97701,["/vishal-portfolio/_next/static/chunks/0.uahq16d~ko8.js","/vishal-portfolio/_next/static/chunks/164co5hr7u.vd.js","/vishal-portfolio/_next/static/chunks/09._g2p7w5eby.js"],"AboutSection"]
-5:I[3919,["/vishal-portfolio/_next/static/chunks/0.uahq16d~ko8.js","/vishal-portfolio/_next/static/chunks/164co5hr7u.vd.js","/vishal-portfolio/_next/static/chunks/09._g2p7w5eby.js"],"SkillsSection"]
-6:I[85536,["/vishal-portfolio/_next/static/chunks/0.uahq16d~ko8.js","/vishal-portfolio/_next/static/chunks/164co5hr7u.vd.js","/vishal-portfolio/_next/static/chunks/09._g2p7w5eby.js"],"ProjectsSection"]
-7:I[34438,["/vishal-portfolio/_next/static/chunks/0.uahq16d~ko8.js","/vishal-portfolio/_next/static/chunks/164co5hr7u.vd.js","/vishal-portfolio/_next/static/chunks/09._g2p7w5eby.js"],"ExperienceSection"]
-8:I[83204,["/vishal-portfolio/_next/static/chunks/0.uahq16d~ko8.js","/vishal-portfolio/_next/static/chunks/164co5hr7u.vd.js","/vishal-portfolio/_next/static/chunks/09._g2p7w5eby.js"],"ContactSection"]
-9:I[6598,["/vishal-portfolio/_next/static/chunks/0.uahq16d~ko8.js","/vishal-portfolio/_next/static/chunks/164co5hr7u.vd.js","/vishal-portfolio/_next/static/chunks/09._g2p7w5eby.js"],"Footer"]
-a:I[52513,["/vishal-portfolio/_next/static/chunks/0.uahq16d~ko8.js","/vishal-portfolio/_next/static/chunks/164co5hr7u.vd.js"],"OutletBoundary"]
+2:I[56511,["./_next/static/chunks/0.uahq16d~ko8.js","./_next/static/chunks/164co5hr7u.vd.js","./_next/static/chunks/09._g2p7w5eby.js"],"Navbar"]
+3:I[89193,["./_next/static/chunks/0.uahq16d~ko8.js","./_next/static/chunks/164co5hr7u.vd.js","./_next/static/chunks/09._g2p7w5eby.js"],"HeroSection"]
+4:I[97701,["./_next/static/chunks/0.uahq16d~ko8.js","./_next/static/chunks/164co5hr7u.vd.js","./_next/static/chunks/09._g2p7w5eby.js"],"AboutSection"]
+5:I[3919,["./_next/static/chunks/0.uahq16d~ko8.js","./_next/static/chunks/164co5hr7u.vd.js","./_next/static/chunks/09._g2p7w5eby.js"],"SkillsSection"]
+6:I[85536,["./_next/static/chunks/0.uahq16d~ko8.js","./_next/static/chunks/164co5hr7u.vd.js","./_next/static/chunks/09._g2p7w5eby.js"],"ProjectsSection"]
+7:I[34438,["./_next/static/chunks/0.uahq16d~ko8.js","./_next/static/chunks/164co5hr7u.vd.js","./_next/static/chunks/09._g2p7w5eby.js"],"ExperienceSection"]
+8:I[83204,["./_next/static/chunks/0.uahq16d~ko8.js","./_next/static/chunks/164co5hr7u.vd.js","./_next/static/chunks/09._g2p7w5eby.js"],"ContactSection"]
+9:I[6598,["./_next/static/chunks/0.uahq16d~ko8.js","./_next/static/chunks/164co5hr7u.vd.js","./_next/static/chunks/09._g2p7w5eby.js"],"Footer"]
+a:I[52513,["./_next/static/chunks/0.uahq16d~ko8.js","./_next/static/chunks/164co5hr7u.vd.js"],"OutletBoundary"]
 b:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-background","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}]]}],[["$","script","script-0",{"src":"/vishal-portfolio/_next/static/chunks/09._g2p7w5eby.js","async":true}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rm9FcXWSR5Hlsxnyf6TG6"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-background","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}]]}],[["$","script","script-0",{"src":"./_next/static/chunks/09._g2p7w5eby.js","async":true}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-ybhrf_CGLpfsC5Z6wxlQ"}
 c:null
